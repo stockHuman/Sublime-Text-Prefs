@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf",
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"Color Highlight",
+		"DocBlockr",
+		"Emmet",
+		"EsFormatter",
+		"INI",
+		"JavaScript Log Snippets",
+		"JS Snippets",
+		"Markdown Extended",
+		"MarkdownHighlighting",
+		"Monokai - Spacegray",
+		"Package Control",
+		"Sass",
+		"SCSS Snippets Complete",
+		"TerminalView",
+		"Theme - Spacegray",
+		"Todo",
+		"Vue Syntax Highlight"
+	]
+}

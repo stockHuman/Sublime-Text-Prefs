@@ -1,0 +1,22 @@
+
+# OS cruft
+.DS_Store
+
+## MacOS
+oscrypto-ca-bundle.crt
+
+# Sublime cruft
+*.sublime-workspace
+.SublimeREPLHistory
+
+# Package cruft
+*.cache
+
+Package Control.merged-ca-bundle
+Package Control.system-ca-bundle
+Package Control.user-ca-bundle
+Package Control.last-run
+
+# Personal
+
+
