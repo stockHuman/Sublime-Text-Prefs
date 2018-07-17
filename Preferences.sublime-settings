@@ -1,13 +1,5 @@
 {
-	"added_words":
-	[
-		"nav",
-		"dev",
-		"Redmine",
-		"ltk",
-		"username"
-	],
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
 	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
 	"folder_exclude_patterns":
@@ -28,13 +20,6 @@
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"ignored_words":
-	[
-		"Grav",
-		"Rawda",
-		"Tadhg",
-		"faff"
 	],
 	"margin": 3,
 	"overlay_scroll_bars": "enabled",
