@@ -7,11 +7,19 @@
 
 	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-	"theme": "ayu-dark.sublime-theme",
+	"theme": "Spacegray Oceanic.sublime-theme",
 	"overlay_scroll_bars": "enabled",
+	// -- Ayu options
 	"ui_font_size_small": false,
 	"ui_native_titlebar": true,
 	"ui_font_source_code_pro": true,
+	// -- Spacegray Options - https://github.com/kkga/spacegray
+	"spacegray_tabs_font_large": true,		// normal, small, large, xlarge
+	"spacegray_tabs_normal": true,				// all follow the same nomenclature
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_fileicons": false,
+	"enable_tab_scrolling": false,
 
 	// UX
 	"drag_text": false,
