@@ -1,5 +1,13 @@
 // These settings override both User and Default settings for the Markdown syntax
 {
+	"scroll_past_end": true,
 	"save_on_focus_lost": true,
 	"line_numbers": false,
+	"theme": "ayu-mirage.sublime-theme",
+    "color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+    "gutter": false,
+	"draw_centered": true,
+	"wrap_width": 60,
+	"word_wrap": true,
+	"line_padding_bottom": 3,
 }
