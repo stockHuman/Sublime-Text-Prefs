@@ -17,6 +17,8 @@ Package Control.system-ca-bundle
 Package Control.user-ca-bundle
 Package Control.last-run
 
-# Personal
-
+# Package specific folders
+/Color\ Highlighter
+/SetiUI-Icons-Sublime-master
+SyncSettings.sublime-settings
 

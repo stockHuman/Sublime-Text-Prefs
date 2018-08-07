@@ -1,35 +1,92 @@
 {
+<<<<<<< HEAD
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+=======
+	// UI
+	"highlight_line": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": 3,
+
+	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"theme": "Spacegray Oceanic.sublime-theme",
+	"overlay_scroll_bars": "enabled",
+	// -- Ayu options
+	"ui_font_size_small": false,
+	"ui_native_titlebar": true,
+	"ui_font_source_code_pro": true,
+	// -- Spacegray Options - https://github.com/kkga/spacegray
+	"spacegray_tabs_font_large": true,		// normal, small, large, xlarge
+	"spacegray_tabs_normal": true,				// all follow the same nomenclature
+	"spacegray_sidebar_font_large": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_fileicons": false,
+	"enable_tab_scrolling": false,
+
+	// UX
+	"drag_text": false,
+	"fade_fold_buttons": false,
+>>>>>>> 0998a4171745dd1b68ede7a96d7d7ce9b66de397
 	"copy_with_empty_selection": false,
-	"default_line_ending": "unix",
-	"folder_exclude_patterns":
-	[
-		".svn",
-		".git",
-		".hg",
-		"CVS",
-		"node_modules"
-	],
+	"highlight_modified_tabs": true,
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+
+	// Editor
 	"font_face": "Hack",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 12,
-	"highlight_line": true,
+	"font_size": 9,
+	"caret_style": "phase",
+	"tab_size": 2,
+<<<<<<< HEAD
+	"theme": "ayu-mirage.sublime-theme",
+=======
+>>>>>>> 0998a4171745dd1b68ede7a96d7d7ce9b66de397
+	"theme_font_options":
+	[
+		"gray_antialias",
+		"directwrite"
+	],
+
+	// Automation
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true,
+	"default_line_ending": "unix",
+
+	// Util
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
 	"ignored_packages":
 	[
 		"Vintage"
-	],
-	"margin": 3,
-	"overlay_scroll_bars": "enabled",
-	"scroll_past_end": true,
-	"shift_tab_unindent": true,
-	"tab_size": 2,
-	"theme": "ayu-mirage.sublime-theme",
-	"theme_font_options":
-	[
-		"gray_antialias"
-	],
-	"trim_trailing_white_space_on_save": true
+	]
 }
