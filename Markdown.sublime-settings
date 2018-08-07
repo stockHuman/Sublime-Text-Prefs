@@ -1,7 +1,10 @@
 // These settings override both User and Default settings for the Markdown syntax
 {
+	"scroll_past_end": true,
 	"save_on_focus_lost": true,
 	"line_numbers": false,
 	"draw_centered": true,
 	"wrap_width": 75,
+  "gutter": false,
+	"line_padding_bottom": 3
 }
