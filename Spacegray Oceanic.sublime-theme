@@ -1,0 +1,9 @@
+[
+  {
+    "class": "sidebar_label",
+    "font.size": 12,
+    "font.face": "Source Code Pro",
+  },
+]
+// Overrides Spacegray Oceanic
+// see https://gist.github.com/anonymous/89867e9cb63f7e811a39

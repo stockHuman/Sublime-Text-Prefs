@@ -1,0 +1,15 @@
+// These settings override both User and Default settings for the Processing syntax
+{
+	// code
+
+	"line_padding_top": 3,
+	"line_padding_bottom": 3,
+	"indent_guide_options": [ "draw_normal", "draw_active" ],
+
+	// editor
+
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"overlay_scroll_bars": "enabled",
+	"wrap_width": 100, // per google spec
+}
