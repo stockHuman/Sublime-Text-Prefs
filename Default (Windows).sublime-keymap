@@ -1,0 +1,10 @@
+[
+	// inverted paste behaviour
+	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+shift+v"],"command": "paste" },
+
+	// basically beautify
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" },
+
+	{ "keys": ["ctrl+home"], "command": "toggle_side_bar"}
+]
