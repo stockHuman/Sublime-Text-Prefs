@@ -1,7 +1,4 @@
-{
-<<<<<<< HEAD
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-=======
+ {
 	// UI
 	"highlight_line": true,
 	"line_padding_bottom": 1,
@@ -27,7 +24,6 @@
 	// UX
 	"drag_text": false,
 	"fade_fold_buttons": false,
->>>>>>> 0998a4171745dd1b68ede7a96d7d7ce9b66de397
 	"copy_with_empty_selection": false,
 	"highlight_modified_tabs": true,
 	"scroll_past_end": true,
@@ -42,10 +38,7 @@
 	"font_size": 9,
 	"caret_style": "phase",
 	"tab_size": 2,
-<<<<<<< HEAD
 	"theme": "ayu-mirage.sublime-theme",
-=======
->>>>>>> 0998a4171745dd1b68ede7a96d7d7ce9b66de397
 	"theme_font_options":
 	[
 		"gray_antialias",
