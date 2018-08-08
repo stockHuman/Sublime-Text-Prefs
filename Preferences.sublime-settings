@@ -7,11 +7,9 @@
 
 	"original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
-	"theme": "Spacegray Oceanic.sublime-theme",
 	"overlay_scroll_bars": "enabled",
 	// -- Ayu options
-	"ui_font_size_small": false,
-	"ui_native_titlebar": true,
+	"ui_font_size_small": true,
 	"ui_font_source_code_pro": true,
 	// -- Spacegray Options - https://github.com/kkga/spacegray
 	"spacegray_tabs_font_large": true,		// normal, small, large, xlarge
@@ -35,7 +33,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 9,
+	"font_size": 12,
 	"caret_style": "phase",
 	"tab_size": 2,
 	"theme": "ayu-mirage.sublime-theme",
