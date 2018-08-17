@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+@at-root #{&}__${1:container} {
+
+	@include media('${2:>tablet}') { & {
+
+	}}
+
+	@include media('${3:>desktop}') { & {
+
+	}}
+}
+]]></content>
+	<!-- 'BEM block' -->
+	<tabTrigger>bemb</tabTrigger>
+	<scope>source.sass,source.scss,source.SCSS</scope>
+	<description>create an @at-root block + MQ for quick BEMSCSS</description>
+</snippet>
